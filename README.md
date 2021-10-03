@@ -1,4 +1,11 @@
-# Fake-Virus 
+# Fake-Virus
+
+<p>
+<img src= "https://c.tenor.com/qsthhHhdjsQAAAAM/error-windows.gif"/>
+</p>
+
+> **Este script foi criado apenas para fins educacionais. NÃO me responsabilizo por qualquer uso indevido.**
+
 ```
 apt update && apt upgrade -y
 
