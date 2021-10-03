@@ -8,7 +8,7 @@
 ```
 apt update && apt upgrade -y
 
-apt-get install python3 git -y
+apt-get install python git -y
 
 git clone https://github.com/Kiny-Kiny/Fake-Virus
 
